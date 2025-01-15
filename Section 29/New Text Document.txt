@@ -1,6 +1,0 @@
-Further Resources
-The official TypeScript Documentation is actually really great, so definitely have a look at it: http://www.typescriptlang.org/
-
-Want to use many ES6 Features? Check the Compatibility Chart: http://kangax.github.io/compat-table/es6/
-
-Want to learn more about TypeScript and Metadata? Scroll to the very bottom of this Article: https://www.typescriptlang.org/docs/handbook/decorators.html
