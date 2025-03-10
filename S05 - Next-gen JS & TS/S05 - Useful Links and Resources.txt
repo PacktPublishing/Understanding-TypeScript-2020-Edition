@@ -1,0 +1,5 @@
+JavaScript Compatibility Table:
+https://kangax.github.io/compat-table/es6/
+
+More about reference vs primitive values:
+https://academind.com/learn/javascript/reference-vs-primitive-values/

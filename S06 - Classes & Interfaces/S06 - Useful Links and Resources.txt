@@ -1,0 +1,6 @@
+Understanding JavaScript Classes:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+
+tsconfig.json:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Classes
+

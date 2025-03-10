@@ -1,0 +1,2 @@
+linked-list.ts:
+https://github.com/mschwarzmueller/understanding-typescript-resources/blob/main/attachments/09-classes-generics-practice/linked-list.ts

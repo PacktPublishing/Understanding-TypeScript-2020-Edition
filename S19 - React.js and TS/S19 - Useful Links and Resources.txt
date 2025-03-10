@@ -1,0 +1,8 @@
+Starting Project:
+https://github.com/mschwarzmueller/understanding-typescript-resources/blob/main/attachments/18-react-ts/starting-project.zip
+
+index.css:
+https://github.com/mschwarzmueller/understanding-typescript-resources/blob/main/attachments/18-react-ts/index.css
+
+goals.jpg:
+https://github.com/mschwarzmueller/understanding-typescript-resources/blob/main/attachments/18-react-ts/goals.jpg

@@ -1,0 +1,5 @@
+Using ES Modules:
+
+In this lecture, we'll use a feature which only works in modern browsers.
+
+Later in the course, we'll find a way to make it work in older browsers as well, but for now make sure you are following along in Chrome or Firefox!

@@ -1,0 +1,8 @@
+About This Section
+This section was recorded a few years ago. In the meantime, the frontend web development ecosystem has started to move away from Webpack (though it's still used by a decent amount of projects) towards more modern tools like Vite.
+
+In addition, even when using a Webpack-based project, you typically don't need to set up and configure Webpack yourself. Just as with Vite, you'll instead often work with a project that was created for you.
+
+Nonetheless, I decided to keep this section online since it might be useful for developers who DO need to work with Webpack themselves or who do want to understand how tools like Webpack interact with TypeScript.
+
+Feel free to skip (or watch with 2x speed) this section if you're not interested in that.

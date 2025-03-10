@@ -1,0 +1,5 @@
+More on defineProperty & Property Descriptors:
+https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Object/defineProperty
+
+More on Decorators:
+https://www.typescriptlang.org/docs/handbook/decorators.html

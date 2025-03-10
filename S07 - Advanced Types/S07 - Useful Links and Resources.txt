@@ -1,0 +1,5 @@
+guards.ts:
+https://github.com/mschwarzmueller/understanding-typescript-resources/blob/main/attachments/07-advanced-types/guards.ts
+
+Updated guards.ts:
+https://github.com/mschwarzmueller/understanding-typescript-resources/blob/main/attachments/07-advanced-types/guards-updated.ts

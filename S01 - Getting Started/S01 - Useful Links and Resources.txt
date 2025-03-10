@@ -1,0 +1,2 @@
+Demo App:
+https://github.com/mschwarzmueller/understanding-typescript-resources/blob/main/attachments/01-getting-started/demo-app.zip
